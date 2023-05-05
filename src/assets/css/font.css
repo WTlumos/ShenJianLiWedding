@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: mading;
+  src: url(../font/mading.ttf);
+}
+
+@font-face {
+  font-family: myself-font;
+  src: url(../font/myself.ttf);
+}
+
+
+@font-face {
+  font-family: hole;
+  src: url(../font/Hole-Hearted.ttf);
+}
